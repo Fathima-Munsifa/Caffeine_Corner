@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315419289876",
+    "project_id": "caffeine-corner-58b52",
+    "storage_bucket": "caffeine-corner-58b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315419289876:android:570a1fd0c056ddd1a67a01",
+        "android_client_info": {
+          "package_name": "com.example.caffeinecorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCqdHaMuVQFJg31b_p0xDF1tX0A4dXgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
